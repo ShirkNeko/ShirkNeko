@@ -32,6 +32,7 @@
 - 🐧 Linux distros: **Ubuntu** & **Debian**
 - 🎵 Music: anime healing vibes & instrumental
 - 🐟 Favorite hobby: slacking off *(professional slacker, hobbyist coder)*
+- 🥽 Also hanging out in **VRChat**
 
 ## 💻 My Setup
 
